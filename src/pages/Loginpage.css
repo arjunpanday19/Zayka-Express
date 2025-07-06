@@ -1,0 +1,19 @@
+.login-page {
+  min-height: 100vh;
+  background: linear-gradient(to right, #f8f9fa, #ffffff);
+}
+
+.login-card {
+  width: 100%;
+  max-width: 400px;
+  border-radius: 15px;
+}
+
+.btn-google {
+  background-color: #db4437;
+  color: white;
+}
+
+.btn-google:hover {
+  background-color: #c23321;
+}
