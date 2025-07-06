@@ -1,12 +1,32 @@
-# React + Vite
+# Zayka-Express
+website https://zayka-express-seven.vercel.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Zayka-Express is a modern food delivery frontend web application built with "React.js" and "Vite". It features a seamless user experience for browsing food items, managing a cart, user authentication, and payment integration using Razorpay.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- 🍔 **Browse Food Menu:** View a variety of food items and add them to your cart.
+- 🛒 **Cart Management:** Add, remove, and update quantities of items in your cart.
+- 🔐 **User Authentication:** Login as a customer or admin. Includes a "Forgot Password" modal.
+- 💳 **Payment Integration:** Secure payments via Razorpay.
+- 🏠 **Order Confirmation:** After payment, users see an order confirmation and are redirected to the home page.
+- 👨‍💻 **Admin Login:** Admin users are redirected to the home page after login.
+- ⚡ **Fast Development:** Built with Vite for lightning-fast development and hot module replacement.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Getting Started
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) (v16 or above recommended)
+- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+
+### Installation
+
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/your-username/zayka-express.git
+   cd zayka-express
